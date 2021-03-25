@@ -6,9 +6,7 @@ import torch.nn.functional as F
 import torch
 from torch import Tensor
 import torch.optim as optim
-import time
 import numpy as np
-import fxcmpy
 from sklearn.svm import OneClassSVM
 import pandas as pd
 

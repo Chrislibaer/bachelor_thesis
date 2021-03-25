@@ -7,9 +7,7 @@ import torch.nn.functional as F
 import torch
 from torch import Tensor
 import torch.optim as optim
-import time
 import numpy as np
-import fxcmpy
 import random
 import pandas as pd
 
